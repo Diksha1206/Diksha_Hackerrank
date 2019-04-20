@@ -1,4 +1,4 @@
-package WarmUp;
+package com.algorihtm.hackerrank.WarmUp;
 
 import java.util.Arrays;
 import java.util.Scanner;
